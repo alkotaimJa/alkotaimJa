@@ -1,5 +1,5 @@
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=alkotaimJa.CarsShoeRoom)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alkotaimJa.CarsShoeRoom)
 
 - 👋 Hi, I’m @alkotaimJa
 - 👀 I’m interested in improving ...  
